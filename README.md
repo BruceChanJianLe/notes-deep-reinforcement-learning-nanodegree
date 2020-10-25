@@ -7,4 +7,9 @@
 
 ### Comparison of State-Value Function and Action-Value Function
 
-![picture](state-value-and-action-value.png)
+![picture](images/state-value-and-action-value.png)
+
+
+### Summary
+
+![picture](images/summary.png)
